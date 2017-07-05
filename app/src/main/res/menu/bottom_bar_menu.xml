@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/all_puppies"
+        android:title="@string/action_all"
+        android:icon="@drawable/ic_home_white_24dp" />
+
+    <item android:id="@+id/big_puppies"
+        android:title="@string/action_big"
+        android:icon="@drawable/ic_dog_white_24dp" />
+
+    <item android:id="@+id/small_puppies"
+        android:title="@string/action_small"
+        android:icon="@drawable/ic_small_dog_white_24dp" />
+
+    <item android:id="@+id/trained_puppies"
+        android:title="@string/action_trained"
+        android:icon="@drawable/ic_trained_white_24dp" />
+
+    <item android:id="@+id/active_puppies"
+        android:title="@string/action_active"
+        android:icon="@drawable/ic_active_white_24dp" />
+</menu>
+
